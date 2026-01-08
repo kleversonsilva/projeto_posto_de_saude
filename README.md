@@ -30,7 +30,8 @@ O projeto foi construído seguindo boas práticas de UI/UX:
 
 ## 📸 Screenshots
 <div align="center">
-  <img src="link-da-imagem-1.png" width="400px">
+  <img src="![pt1](https://github.com/user-attachments/assets/18f1d280-3141-41c6-a73a-9c1525bb7448)
+" width="400px">
   <img src="link-da-imagem-2.png" width="400px">
 </div>
 
