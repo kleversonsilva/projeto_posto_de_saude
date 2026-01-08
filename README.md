@@ -29,11 +29,7 @@ O projeto foi construído seguindo boas práticas de UI/UX:
 3.  **Responsividade:** Adaptado para Desktop (Uso administrativo) e Mobile (Uso do paciente).
 
 ## 📸 Screenshots
-<div align="center">
-  <img src="![pt1](https://github.com/user-attachments/assets/18f1d280-3141-41c6-a73a-9c1525bb7448)
-" width="400px">
-  <img src="link-da-imagem-2.png" width="400px">
-</div>
+![pt1](https://github.com/user-attachments/assets/18f1d280-3141-41c6-a73a-9c1525bb7448)
 
 ---
 Desenvolvido com 💙 por Kleverson silva
