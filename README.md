@@ -30,6 +30,8 @@ O projeto foi construído seguindo boas práticas de UI/UX:
 
 ## 📸 Screenshots
 ![pt1](https://github.com/user-attachments/assets/18f1d280-3141-41c6-a73a-9c1525bb7448)
+---
+![ft7](https://github.com/user-attachments/assets/defc6adc-ca9e-433b-8586-8d81f39e3ad5)
 
 ---
 Desenvolvido com 💙 por Kleverson silva
